@@ -1,4 +1,4 @@
-# Tranca Escape Room com BitDogLab
+# Caixa-cofre para um Escape Room Educativo com BitDogLab
 
 Sistema embarcado desenvolvido para controlar a abertura de uma caixa-cofre utilizada na etapa final de um **Escape Room educativo desenvolvido na XI SECITEC da UFERSA Campus Angicos**.  
 O projeto foi implementado com a placa **BitDogLab**, integrando **teclado matricial**, **servo motor**, **LED RGB**, **botões físicos** e **display OLED SSD1306**, permitindo a validação de senhas e a abertura automatizada da caixa que armazenava a chave da vitória do desafio.
